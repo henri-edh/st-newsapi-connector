@@ -1,0 +1,41 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+
+# Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Tests
+tests/
+*.log
+
+# Project specific
+README.md
+LICENSE
+assets/
+
+# macOS
+.DS_Store
+
+# Poetry
+poetry.lock
+
+# Other
+*.bak
+*.swp
+*.swo
